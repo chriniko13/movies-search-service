@@ -231,7 +231,6 @@ Your mission, should you choose to accept it, is to write a web application in J
 1) aka -> title_id
     ```sql
     ALTER TABLE `movies_search_service_db`.`aka` 
-    ALTER TABLE `movies_search_service_db`.`aka` 
     ADD INDEX `title_id_idx` (`title_id` ASC);
     ```
 
