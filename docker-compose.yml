@@ -1,0 +1,11 @@
+version: '2.1'
+services:
+
+  mysql:
+    image: mysql:5.7.19
+    command: mysqld --user=root
+    environment:
+      - MYSQL_ROOT_PASSWORD=nikos
+      - MYSQL_DATABASE=movies_search_service_db
+    ports:
+      - 3306:3306

@@ -1,0 +1,98 @@
+{
+  "query": "title:The%20Shawshank%20Redemption",
+  "noOfResults": 8,
+  "searchResults": [
+    {
+      "id": "tt5443390",
+      "titleType": "video",
+      "primaryTitle": "The Shawshank Redemption: Cast Interviews",
+      "originalTitle": "The Shawshank Redemption: Cast Interviews",
+      "startYear": "2004",
+      "endYear": "\\N",
+      "runtimeMinutes": 134,
+      "genres": "Documentary",
+      "adult": false
+    },
+    {
+      "id": "tt6681006",
+      "titleType": "tvEpisode",
+      "primaryTitle": "The Shawshank Redemption",
+      "originalTitle": "The Shawshank Redemption",
+      "startYear": "2015",
+      "endYear": "\\N",
+      "runtimeMinutes": 7,
+      "genres": "Comedy",
+      "adult": false
+    },
+    {
+      "id": "tt6142216",
+      "titleType": "tvEpisode",
+      "primaryTitle": "The Shawshank Redemption/Timecop/Terminal Velocity/The New Age/Blue Sky",
+      "originalTitle": "The Shawshank Redemption/Timecop/Terminal Velocity/The New Age/Blue Sky",
+      "startYear": "1994",
+      "endYear": "\\N",
+      "genres": "Talk-Show",
+      "adult": false
+    },
+    {
+      "id": "tt0111161",
+      "titleType": "movie",
+      "primaryTitle": "The Shawshank Redemption",
+      "originalTitle": "The Shawshank Redemption",
+      "startYear": "1994",
+      "endYear": "\\N",
+      "runtimeMinutes": 142,
+      "genres": "Drama",
+      "averageRating": 9.3,
+      "numVotes": 2010007,
+      "adult": false
+    },
+    {
+      "id": "tt5443386",
+      "titleType": "video",
+      "primaryTitle": "The Shawshank Redemption: Behind the Scenes",
+      "originalTitle": "The Shawshank Redemption: Behind the Scenes",
+      "startYear": "2004",
+      "endYear": "\\N",
+      "runtimeMinutes": 9,
+      "genres": "Short",
+      "averageRating": 9.4,
+      "numVotes": 24,
+      "adult": false
+    },
+    {
+      "id": "tt7308124",
+      "titleType": "tvEpisode",
+      "primaryTitle": "The Shawshank Redemption",
+      "originalTitle": "The Shawshank Redemption",
+      "startYear": "2017",
+      "endYear": "\\N",
+      "genres": "Comedy,Talk-Show",
+      "averageRating": 8.1,
+      "numVotes": 7,
+      "adult": false
+    },
+    {
+      "id": "tt2477746",
+      "titleType": "short",
+      "primaryTitle": "The Shawshank Redemption (Scene)",
+      "originalTitle": "The Shawshank Redemption (Scene)",
+      "startYear": "2012",
+      "endYear": "\\N",
+      "runtimeMinutes": 6,
+      "genres": "Crime,Drama,Short",
+      "adult": false
+    },
+    {
+      "id": "tt7088038",
+      "titleType": "tvEpisode",
+      "primaryTitle": "The Shawshank Redemption Prison",
+      "originalTitle": "The Shawshank Redemption Prison",
+      "startYear": "2017",
+      "endYear": "\\N",
+      "runtimeMinutes": 19,
+      "genres": "Comedy,Documentary,History",
+      "adult": false
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "executedForNames": [
+    "Angelina Jolie",
+    "Brad Pitt"
+  ],
+  "names": [
+    {
+      "nconst": "nm0001401",
+      "primaryName": "Angelina Jolie",
+      "birthYear": "1975",
+      "deathYear": "\\N",
+      "primaryProfessions": "actress,producer,director",
+      "knownForTitles": "tt0172493,tt0824747,tt1587310,tt0944835",
+      "primaryProfessionsSplited": [
+        "actress",
+        "producer",
+        "director"
+      ],
+      "knownForTitlesSplited": [
+        "tt0172493",
+        "tt0824747",
+        "tt1587310",
+        "tt0944835"
+      ]
+    },
+    {
+      "nconst": "nm0000093",
+      "primaryName": "Brad Pitt",
+      "birthYear": "1963",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,producer,soundtrack",
+      "knownForTitles": "tt0356910,tt0114746,tt1210166,tt0816711",
+      "primaryProfessionsSplited": [
+        "actor",
+        "producer",
+        "soundtrack"
+      ],
+      "knownForTitlesSplited": [
+        "tt0356910",
+        "tt0114746",
+        "tt1210166",
+        "tt0816711"
+      ]
+    }
+  ],
+  "noOfSharedTitles": 21,
+  "sharedTitles": [
+    {
+      "id": "tt2890800",
+      "titleType": "tvMovie",
+      "primaryTitle": "People Magnet TV",
+      "originalTitle": "People Magnet TV",
+      "startYear": "2013",
+      "endYear": "\\N",
+      "genres": "Documentary",
+      "adult": false
+    },
+    {
+      "id": "tt0829459",
+      "titleType": "movie",
+      "primaryTitle": "A Mighty Heart",
+      "originalTitle": "A Mighty Heart",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "runtimeMinutes": 108,
+      "genres": "Biography,Drama,History",
+      "averageRating": 6.7,
+      "numVotes": 25509,
+      "adult": false
+    },
+    {
+      "id": "tt4128280",
+      "titleType": "tvEpisode",
+      "primaryTitle": "The Changing Times of Philanthropy",
+      "originalTitle": "The Changing Times of Philanthropy",
+      "startYear": "2013",
+      "endYear": "\\N",
+      "genres": "Documentary,News,Talk-Show",
+      "adult": false
+    },
+    {
+      "id": "tt0950913",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Golden Getaway: The Platinum List",
+      "originalTitle": "Golden Getaway: The Platinum List",
+      "startYear": "2006",
+      "endYear": "\\N",
+      "genres": "Documentary",
+      "adult": false
+    },
+    {
+      "id": "tt6050410",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode #28.268",
+      "originalTitle": "Episode #28.268",
+      "startYear": "2016",
+      "endYear": "\\N",
+      "genres": "Documentary,News",
+      "adult": false
+    },
+    {
+      "id": "tt1624785",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode #1.4",
+      "originalTitle": "Episode #1.4",
+      "startYear": "2008",
+      "endYear": "\\N",
+      "genres": "Adventure",
+      "adult": false
+    },
+    {
+      "id": "tt6041576",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 20 September 2016",
+      "originalTitle": "Episode dated 20 September 2016",
+      "startYear": "2016",
+      "endYear": "\\N",
+      "genres": "News",
+      "adult": false
+    },
+    {
+      "id": "tt0585351",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 7 June 2005",
+      "originalTitle": "Episode dated 7 June 2005",
+      "startYear": "2005",
+      "endYear": "\\N",
+      "genres": "News,Talk-Show",
+      "averageRating": 4.0,
+      "numVotes": 13,
+      "adult": false
+    },
+    {
+      "id": "tt0765996",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 11 January 2006",
+      "originalTitle": "Episode dated 11 January 2006",
+      "startYear": "2006",
+      "endYear": "\\N",
+      "genres": "News,Talk-Show",
+      "averageRating": 2.8,
+      "numVotes": 23,
+      "adult": false
+    },
+    {
+      "id": "tt1443095",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 23 May 2009",
+      "originalTitle": "Episode dated 23 May 2009",
+      "startYear": "2009",
+      "endYear": "\\N",
+      "genres": "News",
+      "adult": false
+    },
+    {
+      "id": "tt0356910",
+      "titleType": "movie",
+      "primaryTitle": "Mr. & Mrs. Smith",
+      "originalTitle": "Mr. & Mrs. Smith",
+      "startYear": "2005",
+      "endYear": "\\N",
+      "runtimeMinutes": 120,
+      "genres": "Action,Comedy,Crime",
+      "averageRating": 6.5,
+      "numVotes": 401915,
+      "adult": false
+    },
+    {
+      "id": "tt2297922",
+      "titleType": "tvSeries",
+      "primaryTitle": "Kig Ind TV",
+      "originalTitle": "Kig Ind TV",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "runtimeMinutes": 30,
+      "genres": "\\N",
+      "adult": false
+    },
+    {
+      "id": "tt0545929",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 7 September 2005",
+      "originalTitle": "Episode dated 7 September 2005",
+      "startYear": "2005",
+      "endYear": "\\N",
+      "genres": "News",
+      "averageRating": 4.2,
+      "numVotes": 14,
+      "adult": false
+    },
+    {
+      "id": "tt2136131",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Amsterdam Heavy in Cannes",
+      "originalTitle": "Amsterdam Heavy in Cannes",
+      "startYear": "2011",
+      "endYear": "\\N",
+      "genres": "Family",
+      "adult": false
+    },
+    {
+      "id": "tt0545921",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 22 July 2005",
+      "originalTitle": "Episode dated 22 July 2005",
+      "startYear": "2005",
+      "endYear": "\\N",
+      "genres": "News",
+      "averageRating": 4.4,
+      "numVotes": 17,
+      "adult": false
+    },
+    {
+      "id": "tt5137398",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 2 November 2015",
+      "originalTitle": "Episode dated 2 November 2015",
+      "startYear": "2015",
+      "endYear": "\\N",
+      "genres": "News,Talk-Show",
+      "adult": false
+    },
+    {
+      "id": "tt5170690",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode #12.45",
+      "originalTitle": "Episode #12.45",
+      "startYear": "2015",
+      "endYear": "\\N",
+      "genres": "News",
+      "adult": false
+    },
+    {
+      "id": "tt1035742",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 21 May 2007",
+      "originalTitle": "Episode dated 21 May 2007",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "genres": "News",
+      "averageRating": 5.5,
+      "numVotes": 6,
+      "adult": false
+    },
+    {
+      "id": "tt1591303",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode #1.89",
+      "originalTitle": "Episode #1.89",
+      "startYear": "2010",
+      "endYear": "\\N",
+      "genres": "News,Talk-Show",
+      "adult": false
+    },
+    {
+      "id": "tt2379108",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 8 April 2012",
+      "originalTitle": "Episode dated 8 April 2012",
+      "startYear": "2012",
+      "endYear": "\\N",
+      "genres": "Comedy",
+      "adult": false
+    },
+    {
+      "id": "tt3707106",
+      "titleType": "movie",
+      "primaryTitle": "By the Sea",
+      "originalTitle": "By the Sea",
+      "startYear": "2015",
+      "endYear": "\\N",
+      "runtimeMinutes": 122,
+      "genres": "Drama,Romance",
+      "averageRating": 5.3,
+      "numVotes": 15258,
+      "adult": false
+    }
+  ]
+}

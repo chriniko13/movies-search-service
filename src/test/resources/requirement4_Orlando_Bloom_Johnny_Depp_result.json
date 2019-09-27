@@ -1,0 +1,200 @@
+{
+  "executedForNames": [
+    "Orlando Bloom",
+    "Johnny Depp"
+  ],
+  "names": [
+    {
+      "nconst": "nm0089217",
+      "primaryName": "Orlando Bloom",
+      "birthYear": "1977",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,producer,soundtrack",
+      "knownForTitles": "tt0120737,tt0325980,tt0167260,tt0320661",
+      "primaryProfessionsSplited": [
+        "actor",
+        "producer",
+        "soundtrack"
+      ],
+      "knownForTitlesSplited": [
+        "tt0120737",
+        "tt0325980",
+        "tt0167260",
+        "tt0320661"
+      ]
+    },
+    {
+      "nconst": "nm0000136",
+      "primaryName": "Johnny Depp",
+      "birthYear": "1963",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,producer,soundtrack",
+      "knownForTitles": "tt0408236,tt0449088,tt0383574,tt0325980",
+      "primaryProfessionsSplited": [
+        "actor",
+        "producer",
+        "soundtrack"
+      ],
+      "knownForTitlesSplited": [
+        "tt0408236",
+        "tt0449088",
+        "tt0383574",
+        "tt0325980"
+      ]
+    }
+  ],
+  "noOfSharedTitles": 12,
+  "sharedTitles": [
+    {
+      "id": "tt0798652",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Johnny Depp: Under His Skin",
+      "originalTitle": "Johnny Depp: Under His Skin",
+      "startYear": "2004",
+      "endYear": "\\N",
+      "genres": "Biography,Documentary",
+      "averageRating": 8.7,
+      "numVotes": 90,
+      "adult": false
+    },
+    {
+      "id": "tt1053871",
+      "titleType": "tvShort",
+      "primaryTitle": "A Journey Behind the Scenes of 'Pirates of the Caribbean: At World's End'",
+      "originalTitle": "A Journey Behind the Scenes of 'Pirates of the Caribbean: At World's End'",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "genres": "Short",
+      "averageRating": 8.1,
+      "numVotes": 123,
+      "adult": false
+    },
+    {
+      "id": "tt0383574",
+      "titleType": "movie",
+      "primaryTitle": "Pirates of the Caribbean: Dead Man's Chest",
+      "originalTitle": "Pirates of the Caribbean: Dead Man's Chest",
+      "startYear": "2006",
+      "endYear": "\\N",
+      "runtimeMinutes": 151,
+      "genres": "Action,Adventure,Fantasy",
+      "averageRating": 7.3,
+      "numVotes": 595836,
+      "adult": false
+    },
+    {
+      "id": "tt3232570",
+      "titleType": "video",
+      "primaryTitle": "Blooper Reel",
+      "originalTitle": "Blooper Reel",
+      "startYear": "2003",
+      "endYear": "\\N",
+      "runtimeMinutes": 3,
+      "genres": "Adventure,Comedy,Short",
+      "averageRating": 7.5,
+      "numVotes": 175,
+      "adult": false
+    },
+    {
+      "id": "tt3195412",
+      "titleType": "video",
+      "primaryTitle": "Bloopers of the Caribbean",
+      "originalTitle": "Bloopers of the Caribbean",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "runtimeMinutes": 5,
+      "genres": "Adventure,Comedy,Short",
+      "averageRating": 7.8,
+      "numVotes": 362,
+      "adult": false
+    },
+    {
+      "id": "tt0449088",
+      "titleType": "movie",
+      "primaryTitle": "Pirates of the Caribbean: At World's End",
+      "originalTitle": "Pirates of the Caribbean: At World's End",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "runtimeMinutes": 169,
+      "genres": "Action,Adventure,Fantasy",
+      "averageRating": 7.1,
+      "numVotes": 540486,
+      "adult": false
+    },
+    {
+      "id": "tt1790809",
+      "titleType": "movie",
+      "primaryTitle": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "originalTitle": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "startYear": "2017",
+      "endYear": "\\N",
+      "runtimeMinutes": 129,
+      "genres": "Action,Adventure,Fantasy",
+      "averageRating": 6.6,
+      "numVotes": 210056,
+      "adult": false
+    },
+    {
+      "id": "tt0325980",
+      "titleType": "movie",
+      "primaryTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "originalTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "startYear": "2003",
+      "endYear": "\\N",
+      "runtimeMinutes": 143,
+      "genres": "Action,Adventure,Fantasy",
+      "averageRating": 8.0,
+      "numVotes": 937124,
+      "adult": false
+    },
+    {
+      "id": "tt5956456",
+      "titleType": "video",
+      "primaryTitle": "According to Plan: The Making of 'Pirates of the Caribbean: Dead Man's Chest'",
+      "originalTitle": "According to Plan: The Making of 'Pirates of the Caribbean: Dead Man's Chest'",
+      "startYear": "2006",
+      "endYear": "\\N",
+      "runtimeMinutes": 63,
+      "genres": "Documentary",
+      "averageRating": 8.0,
+      "numVotes": 7,
+      "adult": false
+    },
+    {
+      "id": "tt3186906",
+      "titleType": "video",
+      "primaryTitle": "Bloopers of the Caribbean",
+      "originalTitle": "Bloopers of the Caribbean",
+      "startYear": "2006",
+      "endYear": "\\N",
+      "runtimeMinutes": 4,
+      "genres": "Adventure,Comedy,Short",
+      "averageRating": 8.0,
+      "numVotes": 347,
+      "adult": false
+    },
+    {
+      "id": "tt0532132",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Pirates",
+      "originalTitle": "Pirates",
+      "startYear": "2003",
+      "endYear": "\\N",
+      "genres": "Comedy",
+      "averageRating": 7.1,
+      "numVotes": 8,
+      "adult": false
+    },
+    {
+      "id": "tt5957772",
+      "titleType": "video",
+      "primaryTitle": "Inside Dead Man's Chest",
+      "originalTitle": "Inside Dead Man's Chest",
+      "startYear": "2006",
+      "endYear": "\\N",
+      "runtimeMinutes": 9,
+      "genres": "Documentary",
+      "adult": false
+    }
+  ]
+}

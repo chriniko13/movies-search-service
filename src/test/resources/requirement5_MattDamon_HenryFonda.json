@@ -1,0 +1,117 @@
+{
+  "providedSourceFullName": "Matt Damon",
+  "providedTargetName": "Henry Fonda",
+  "results": [
+    {
+      "resultStatus": "Get links operation completed successfully.",
+      "sourceName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "targetName": {
+        "nconst": "nm0000020",
+        "primaryName": "Henry Fonda",
+        "birthYear": "1905",
+        "deathYear": "1982",
+        "primaryProfessions": "actor,producer,soundtrack",
+        "knownForTitles": "tt0032551,tt0050083,tt0064116,tt0082846",
+        "primaryProfessionsSplited": [
+          "actor",
+          "producer",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0032551",
+          "tt0050083",
+          "tt0064116",
+          "tt0082846"
+        ]
+      },
+      "degrees": 3,
+      "links": [
+        {
+          "type": "Name",
+          "properties": {
+            "nconst": "nm0000354",
+            "primaryName": "Matt Damon"
+          }
+        },
+        {
+          "type": "ACTED"
+        },
+        {
+          "type": "Basic",
+          "properties": {
+            "primaryTitle": "Jason Bourne",
+            "tconst": "tt4196776"
+          }
+        },
+        {
+          "type": "APPEARED"
+        },
+        {
+          "type": "Name",
+          "properties": {
+            "nconst": "nm0000169",
+            "primaryName": "Tommy Lee Jones"
+          }
+        },
+        {
+          "type": "ACTED"
+        },
+        {
+          "type": "Basic",
+          "properties": {
+            "primaryTitle": "The Client",
+            "tconst": "tt0109446"
+          }
+        },
+        {
+          "type": "ACTED"
+        },
+        {
+          "type": "Name",
+          "properties": {
+            "nconst": "nm0000215",
+            "primaryName": "Susan Sarandon"
+          }
+        },
+        {
+          "type": "APPEARED"
+        },
+        {
+          "type": "Basic",
+          "properties": {
+            "primaryTitle": "The Art of Acting",
+            "tconst": "tt7935382"
+          }
+        },
+        {
+          "type": "ACTED"
+        },
+        {
+          "type": "Name",
+          "properties": {
+            "nconst": "nm0000020",
+            "primaryName": "Henry Fonda"
+          }
+        }
+      ]
+    }
+  ]
+}

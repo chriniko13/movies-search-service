@@ -1,0 +1,57 @@
+{
+  "providedSourceFullName": "Matt Damon",
+  "providedTargetName": "Matt Damon",
+  "results": [
+    {
+      "resultStatus": "Get links operation completed successfully.",
+      "sourceName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "targetName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "degrees": 0,
+      "links": [
+        {
+          "type": "Name",
+          "properties": {
+            "nconst": "nm0000354",
+            "primaryName": "Matt Damon"
+          }
+        }
+      ]
+    }
+  ]
+}

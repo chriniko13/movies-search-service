@@ -1,0 +1,115 @@
+{
+  "executedForNames": [
+    "George Clooney",
+    "Matt Damon",
+    "Brad Pitt"
+  ],
+  "names": [
+    {
+      "nconst": "nm0000123",
+      "primaryName": "George Clooney",
+      "birthYear": "1961",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,producer,director",
+      "knownForTitles": "tt0465538,tt1124035,tt1033575,tt1193138",
+      "primaryProfessionsSplited": [
+        "actor",
+        "producer",
+        "director"
+      ],
+      "knownForTitlesSplited": [
+        "tt0465538",
+        "tt1124035",
+        "tt1033575",
+        "tt1193138"
+      ]
+    },
+    {
+      "nconst": "nm0000354",
+      "primaryName": "Matt Damon",
+      "birthYear": "1970",
+      "deathYear": "\\N",
+      "primaryProfessions": "producer,actor,soundtrack",
+      "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+      "primaryProfessionsSplited": [
+        "producer",
+        "actor",
+        "soundtrack"
+      ],
+      "knownForTitlesSplited": [
+        "tt0119217",
+        "tt0407887",
+        "tt3659388",
+        "tt0134119"
+      ]
+    },
+    {
+      "nconst": "nm0000093",
+      "primaryName": "Brad Pitt",
+      "birthYear": "1963",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,producer,soundtrack",
+      "knownForTitles": "tt0356910,tt0114746,tt1210166,tt0816711",
+      "primaryProfessionsSplited": [
+        "actor",
+        "producer",
+        "soundtrack"
+      ],
+      "knownForTitlesSplited": [
+        "tt0356910",
+        "tt0114746",
+        "tt1210166",
+        "tt0816711"
+      ]
+    }
+  ],
+  "noOfSharedTitles": 4,
+  "sharedTitles": [
+    {
+      "id": "tt5630786",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Inside the \"Ocean's 13\" Premiere Las Vegas",
+      "originalTitle": "Inside the \"Ocean's 13\" Premiere Las Vegas",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "genres": "Documentary",
+      "adult": false
+    },
+    {
+      "id": "tt0496806",
+      "titleType": "movie",
+      "primaryTitle": "Ocean's Thirteen",
+      "originalTitle": "Ocean's Thirteen",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "runtimeMinutes": 122,
+      "genres": "Crime,Thriller",
+      "averageRating": 6.9,
+      "numVotes": 289686,
+      "adult": false
+    },
+    {
+      "id": "tt0240772",
+      "titleType": "movie",
+      "primaryTitle": "Ocean's Eleven",
+      "originalTitle": "Ocean's Eleven",
+      "startYear": "2001",
+      "endYear": "\\N",
+      "runtimeMinutes": 116,
+      "genres": "Crime,Thriller",
+      "averageRating": 7.8,
+      "numVotes": 461163,
+      "adult": false
+    },
+    {
+      "id": "tt1040810",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Om filmen 'Ocean's Eleven'",
+      "originalTitle": "Om filmen 'Ocean's Eleven'",
+      "startYear": "2002",
+      "endYear": "\\N",
+      "genres": "News",
+      "adult": false
+    }
+  ]
+}

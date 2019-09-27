@@ -1,0 +1,336 @@
+{
+  "providedSourceFullName": "Matt Damon",
+  "providedTargetName": "Kevin Bacon",
+  "results": [
+    {
+      "resultStatus": "Get links operation completed successfully.",
+      "sourceName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "targetName": {
+        "nconst": "nm0000102",
+        "primaryName": "Kevin Bacon",
+        "birthYear": "1958",
+        "deathYear": "\\N",
+        "primaryProfessions": "actor,producer,soundtrack",
+        "knownForTitles": "tt0327056,tt0361127,tt0164052,tt0087277",
+        "primaryProfessionsSplited": [
+          "actor",
+          "producer",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0327056",
+          "tt0361127",
+          "tt0164052",
+          "tt0087277"
+        ]
+      },
+      "degrees": 2,
+      "links": [
+        {
+          "type": "Name",
+          "properties": {
+            "nconst": "nm0000354",
+            "primaryName": "Matt Damon"
+          }
+        },
+        {
+          "type": "ACTED"
+        },
+        {
+          "type": "Basic",
+          "properties": {
+            "primaryTitle": "The Good Shepherd",
+            "tconst": "tt0343737"
+          }
+        },
+        {
+          "type": "ACTED"
+        },
+        {
+          "type": "Name",
+          "properties": {
+            "nconst": "nm0000285",
+            "primaryName": "Alec Baldwin"
+          }
+        },
+        {
+          "type": "ACTED"
+        },
+        {
+          "type": "Basic",
+          "properties": {
+            "primaryTitle": "She's Having a Baby",
+            "tconst": "tt0096094"
+          }
+        },
+        {
+          "type": "ACTED"
+        },
+        {
+          "type": "Name",
+          "properties": {
+            "nconst": "nm0000102",
+            "primaryName": "Kevin Bacon"
+          }
+        }
+      ]
+    },
+    {
+      "resultStatus": "Get links operation could not applied, due to missing required Name record(s)/node(s).",
+      "sourceName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "targetName": {
+        "nconst": "nm10210267",
+        "primaryName": "Kevin Bacon",
+        "birthYear": "\\N",
+        "deathYear": "\\N",
+        "primaryProfessions": "",
+        "knownForTitles": "tt1554356",
+        "primaryProfessionsSplited": [
+          ""
+        ],
+        "knownForTitlesSplited": [
+          "tt1554356"
+        ]
+      },
+      "degrees": 0,
+      "links": []
+    },
+    {
+      "resultStatus": "Get links operation could not applied, due to missing required Name record(s)/node(s).",
+      "sourceName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "targetName": {
+        "nconst": "nm10217220",
+        "primaryName": "Kevin Bacon",
+        "birthYear": "\\N",
+        "deathYear": "\\N",
+        "primaryProfessions": "sound_department",
+        "knownForTitles": "\\N",
+        "primaryProfessionsSplited": [
+          "sound_department"
+        ],
+        "knownForTitlesSplited": [
+          "\\N"
+        ]
+      },
+      "degrees": 0,
+      "links": []
+    },
+    {
+      "resultStatus": "Get links operation could not applied, due to missing required Name record(s)/node(s).",
+      "sourceName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "targetName": {
+        "nconst": "nm3636162",
+        "primaryName": "Kevin Bacon",
+        "birthYear": "\\N",
+        "deathYear": "\\N",
+        "primaryProfessions": "camera_department,actor,cinematographer",
+        "knownForTitles": "tt4875654,tt2063666,tt2186712,tt1954811",
+        "primaryProfessionsSplited": [
+          "camera_department",
+          "actor",
+          "cinematographer"
+        ],
+        "knownForTitlesSplited": [
+          "tt4875654",
+          "tt2063666",
+          "tt2186712",
+          "tt1954811"
+        ]
+      },
+      "degrees": 0,
+      "links": []
+    },
+    {
+      "resultStatus": "Get links operation could not applied, due to missing required Name record(s)/node(s).",
+      "sourceName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "targetName": {
+        "nconst": "nm4025714",
+        "primaryName": "Kevin Bacon",
+        "birthYear": "\\N",
+        "deathYear": "\\N",
+        "primaryProfessions": "sound_department,director,writer",
+        "knownForTitles": "tt8429394,tt0098193,tt3067274,tt1737781",
+        "primaryProfessionsSplited": [
+          "sound_department",
+          "director",
+          "writer"
+        ],
+        "knownForTitlesSplited": [
+          "tt8429394",
+          "tt0098193",
+          "tt3067274",
+          "tt1737781"
+        ]
+      },
+      "degrees": 0,
+      "links": []
+    },
+    {
+      "resultStatus": "Get links operation could not applied, due to missing required Name record(s)/node(s).",
+      "sourceName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "targetName": {
+        "nconst": "nm9323132",
+        "primaryName": "Kevin Bacon",
+        "birthYear": "\\N",
+        "deathYear": "\\N",
+        "primaryProfessions": "actor,soundtrack",
+        "knownForTitles": "tt7470112",
+        "primaryProfessionsSplited": [
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt7470112"
+        ]
+      },
+      "degrees": 0,
+      "links": []
+    },
+    {
+      "resultStatus": "Get links operation could not applied, due to missing required Name record(s)/node(s).",
+      "sourceName": {
+        "nconst": "nm0000354",
+        "primaryName": "Matt Damon",
+        "birthYear": "1970",
+        "deathYear": "\\N",
+        "primaryProfessions": "producer,actor,soundtrack",
+        "knownForTitles": "tt0119217,tt0407887,tt3659388,tt0134119",
+        "primaryProfessionsSplited": [
+          "producer",
+          "actor",
+          "soundtrack"
+        ],
+        "knownForTitlesSplited": [
+          "tt0119217",
+          "tt0407887",
+          "tt3659388",
+          "tt0134119"
+        ]
+      },
+      "targetName": {
+        "nconst": "nm9792572",
+        "primaryName": "Kevin Bacon",
+        "birthYear": "\\N",
+        "deathYear": "\\N",
+        "primaryProfessions": "sound_department",
+        "knownForTitles": "\\N",
+        "primaryProfessionsSplited": [
+          "sound_department"
+        ],
+        "knownForTitlesSplited": [
+          "\\N"
+        ]
+      },
+      "degrees": 0,
+      "links": []
+    }
+  ]
+}

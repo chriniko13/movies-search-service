@@ -1,0 +1,116 @@
+{
+  "executedForNames": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson",
+    "Bruce Willis"
+  ],
+  "names": [
+    {
+      "nconst": "nm0000237",
+      "primaryName": "John Travolta",
+      "birthYear": "1954",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,soundtrack,producer",
+      "knownForTitles": "tt0110912,tt0185183,tt0427327,tt0119094",
+      "primaryProfessionsSplited": [
+        "actor",
+        "soundtrack",
+        "producer"
+      ],
+      "knownForTitlesSplited": [
+        "tt0110912",
+        "tt0185183",
+        "tt0427327",
+        "tt0119094"
+      ]
+    },
+    {
+      "nconst": "nm6395283",
+      "primaryName": "John Travolta",
+      "birthYear": "\\N",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor",
+      "knownForTitles": "tt0152379",
+      "primaryProfessionsSplited": [
+        "actor"
+      ],
+      "knownForTitlesSplited": [
+        "tt0152379"
+      ]
+    },
+    {
+      "nconst": "nm0000235",
+      "primaryName": "Uma Thurman",
+      "birthYear": "1970",
+      "deathYear": "\\N",
+      "primaryProfessions": "actress,soundtrack,writer",
+      "knownForTitles": "tt0110912,tt0378194,tt0266697,tt0118688",
+      "primaryProfessionsSplited": [
+        "actress",
+        "soundtrack",
+        "writer"
+      ],
+      "knownForTitlesSplited": [
+        "tt0110912",
+        "tt0378194",
+        "tt0266697",
+        "tt0118688"
+      ]
+    },
+    {
+      "nconst": "nm0000168",
+      "primaryName": "Samuel L. Jackson",
+      "birthYear": "1948",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,producer,soundtrack",
+      "knownForTitles": "tt0417148,tt0119396,tt0110912,tt3460252",
+      "primaryProfessionsSplited": [
+        "actor",
+        "producer",
+        "soundtrack"
+      ],
+      "knownForTitlesSplited": [
+        "tt0417148",
+        "tt0119396",
+        "tt0110912",
+        "tt3460252"
+      ]
+    },
+    {
+      "nconst": "nm0000246",
+      "primaryName": "Bruce Willis",
+      "birthYear": "1955",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,soundtrack,producer",
+      "knownForTitles": "tt0167404,tt0088571,tt0095016,tt0110912",
+      "primaryProfessionsSplited": [
+        "actor",
+        "soundtrack",
+        "producer"
+      ],
+      "knownForTitlesSplited": [
+        "tt0167404",
+        "tt0088571",
+        "tt0095016",
+        "tt0110912"
+      ]
+    }
+  ],
+  "noOfSharedTitles": 1,
+  "sharedTitles": [
+    {
+      "id": "tt0110912",
+      "titleType": "movie",
+      "primaryTitle": "Pulp Fiction",
+      "originalTitle": "Pulp Fiction",
+      "startYear": "1994",
+      "endYear": "\\N",
+      "runtimeMinutes": 154,
+      "genres": "Crime,Drama",
+      "averageRating": 8.9,
+      "numVotes": 1569015,
+      "adult": false
+    }
+  ]
+}

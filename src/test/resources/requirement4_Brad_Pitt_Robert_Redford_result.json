@@ -1,0 +1,217 @@
+{
+  "executedForNames": [
+    "Brad Pitt",
+    "Robert Redford"
+  ],
+  "names": [
+    {
+      "nconst": "nm0000093",
+      "primaryName": "Brad Pitt",
+      "birthYear": "1963",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,producer,soundtrack",
+      "knownForTitles": "tt0356910,tt0114746,tt1210166,tt0816711",
+      "primaryProfessionsSplited": [
+        "actor",
+        "producer",
+        "soundtrack"
+      ],
+      "knownForTitlesSplited": [
+        "tt0356910",
+        "tt0114746",
+        "tt1210166",
+        "tt0816711"
+      ]
+    },
+    {
+      "nconst": "nm0000602",
+      "primaryName": "Robert Redford",
+      "birthYear": "1936",
+      "deathYear": "\\N",
+      "primaryProfessions": "producer,actor,director",
+      "knownForTitles": "tt0074119,tt0087781,tt0064115,tt0081283",
+      "primaryProfessionsSplited": [
+        "producer",
+        "actor",
+        "director"
+      ],
+      "knownForTitlesSplited": [
+        "tt0074119",
+        "tt0087781",
+        "tt0064115",
+        "tt0081283"
+      ]
+    },
+    {
+      "nconst": "nm1259939",
+      "primaryName": "Robert Redford",
+      "birthYear": "\\N",
+      "deathYear": "\\N",
+      "primaryProfessions": "camera_department",
+      "knownForTitles": "tt1318514,tt0460780,tt0429493,tt0343818",
+      "primaryProfessionsSplited": [
+        "camera_department"
+      ],
+      "knownForTitlesSplited": [
+        "tt1318514",
+        "tt0460780",
+        "tt0429493",
+        "tt0343818"
+      ]
+    },
+    {
+      "nconst": "nm1586799",
+      "primaryName": "Robert Redford",
+      "birthYear": "\\N",
+      "deathYear": "\\N",
+      "primaryProfessions": "",
+      "knownForTitles": "tt1628735,tt1628736,tt1628737,tt1657354",
+      "primaryProfessionsSplited": [
+        ""
+      ],
+      "knownForTitlesSplited": [
+        "tt1628735",
+        "tt1628736",
+        "tt1628737",
+        "tt1657354"
+      ]
+    },
+    {
+      "nconst": "nm3914540",
+      "primaryName": "Robert Redford",
+      "birthYear": "\\N",
+      "deathYear": "\\N",
+      "primaryProfessions": "",
+      "knownForTitles": "tt1677073",
+      "primaryProfessionsSplited": [
+        ""
+      ],
+      "knownForTitlesSplited": [
+        "tt1677073"
+      ]
+    },
+    {
+      "nconst": "nm4998770",
+      "primaryName": "Robert Redford",
+      "birthYear": "\\N",
+      "deathYear": "\\N",
+      "primaryProfessions": "",
+      "knownForTitles": "tt2355661",
+      "primaryProfessionsSplited": [
+        ""
+      ],
+      "knownForTitlesSplited": [
+        "tt2355661"
+      ]
+    },
+    {
+      "nconst": "nm5356966",
+      "primaryName": "Robert Redford",
+      "birthYear": "\\N",
+      "deathYear": "\\N",
+      "primaryProfessions": "producer",
+      "knownForTitles": "tt2504926",
+      "primaryProfessionsSplited": [
+        "producer"
+      ],
+      "knownForTitlesSplited": [
+        "tt2504926"
+      ]
+    },
+    {
+      "nconst": "nm8523673",
+      "primaryName": "Robert Redford",
+      "birthYear": "\\N",
+      "deathYear": "\\N",
+      "primaryProfessions": "music_department,soundtrack",
+      "knownForTitles": "tt1935089",
+      "primaryProfessionsSplited": [
+        "music_department",
+        "soundtrack"
+      ],
+      "knownForTitlesSplited": [
+        "tt1935089"
+      ]
+    },
+    {
+      "nconst": "nm8775460",
+      "primaryName": "Robert Redford",
+      "birthYear": "\\N",
+      "deathYear": "\\N",
+      "primaryProfessions": "",
+      "knownForTitles": "\\N",
+      "primaryProfessionsSplited": [
+        ""
+      ],
+      "knownForTitlesSplited": [
+        "\\N"
+      ]
+    }
+  ],
+  "noOfSharedTitles": 5,
+  "sharedTitles": [
+    {
+      "id": "tt0105265",
+      "titleType": "movie",
+      "primaryTitle": "A River Runs Through It",
+      "originalTitle": "A River Runs Through It",
+      "startYear": "1992",
+      "endYear": "\\N",
+      "runtimeMinutes": 123,
+      "genres": "Drama",
+      "averageRating": 7.3,
+      "numVotes": 47588,
+      "adult": false
+    },
+    {
+      "id": "tt0531356",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Robert Redford",
+      "originalTitle": "Robert Redford",
+      "startYear": "2001",
+      "endYear": "\\N",
+      "genres": "Biography,Documentary",
+      "averageRating": 4.0,
+      "numVotes": 5,
+      "adult": false
+    },
+    {
+      "id": "tt0288347",
+      "titleType": "tvSeries",
+      "primaryTitle": "Bravo Profiles",
+      "originalTitle": "Bravo Profiles",
+      "startYear": "1994",
+      "endYear": "\\N",
+      "genres": "Biography,Documentary",
+      "averageRating": 6.7,
+      "numVotes": 22,
+      "adult": false
+    },
+    {
+      "id": "tt0266987",
+      "titleType": "movie",
+      "primaryTitle": "Spy Game",
+      "originalTitle": "Spy Game",
+      "startYear": "2001",
+      "endYear": "\\N",
+      "runtimeMinutes": 126,
+      "genres": "Action,Crime,Thriller",
+      "averageRating": 7.1,
+      "numVotes": 132363,
+      "adult": false
+    },
+    {
+      "id": "tt0452318",
+      "titleType": "video",
+      "primaryTitle": "The Making of 'Spy Game'",
+      "originalTitle": "The Making of 'Spy Game'",
+      "startYear": "2001",
+      "endYear": "\\N",
+      "runtimeMinutes": 14,
+      "genres": "Documentary,Short",
+      "averageRating": 5.2,
+      "numVotes": 25,
+      "adult": false
+    }
+  ]
+}

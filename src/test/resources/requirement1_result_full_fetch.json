@@ -1,0 +1,1873 @@
+{
+  "query": "title:The%20Shawshank%20Redemption",
+  "noOfResults": 8,
+  "searchResults": [
+    {
+      "id": "tt5443390",
+      "titleType": "video",
+      "primaryTitle": "The Shawshank Redemption: Cast Interviews",
+      "originalTitle": "The Shawshank Redemption: Cast Interviews",
+      "startYear": "2004",
+      "endYear": "\\N",
+      "runtimeMinutes": 134,
+      "genres": "Documentary",
+      "principals": [
+        {
+          "titleId": "tt5443390",
+          "ordering": 1,
+          "personInfo": {
+            "id": "nm0000317",
+            "primaryName": "Clancy Brown",
+            "birthYear": "1959",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "soundtrack",
+              "producer"
+            ],
+            "knownForTitles": [
+              "tt0111161",
+              "tt3501632",
+              "tt0803096",
+              "tt0120201"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself\"]"
+        },
+        {
+          "titleId": "tt5443390",
+          "ordering": 2,
+          "personInfo": {
+            "id": "nm0000151",
+            "primaryName": "Morgan Freeman",
+            "birthYear": "1937",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "producer",
+              "soundtrack"
+            ],
+            "knownForTitles": [
+              "tt0405159",
+              "tt0114369",
+              "tt0097239",
+              "tt1057500"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself\"]"
+        },
+        {
+          "titleId": "tt5443390",
+          "ordering": 3,
+          "personInfo": {
+            "id": "nm0348409",
+            "primaryName": "Bob Gunton",
+            "birthYear": "1945",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "soundtrack"
+            ],
+            "knownForTitles": [
+              "tt0111161",
+              "tt3322312",
+              "tt0285331",
+              "tt3305388"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself\"]"
+        },
+        {
+          "titleId": "tt5443390",
+          "ordering": 4,
+          "personInfo": {
+            "id": "nm0000209",
+            "primaryName": "Tim Robbins",
+            "birthYear": "1958",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "producer",
+              "director"
+            ],
+            "knownForTitles": [
+              "tt0327056",
+              "tt0111161",
+              "tt0105151",
+              "tt0094812"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself\"]"
+        },
+        {
+          "titleId": "tt5443390",
+          "ordering": 5,
+          "personInfo": {
+            "id": "nm0006669",
+            "primaryName": "William Sadler",
+            "birthYear": "1950",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "soundtrack",
+              "director"
+            ],
+            "knownForTitles": [
+              "tt0884328",
+              "tt1300854",
+              "tt0111161",
+              "tt0101452"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself\"]"
+        }
+      ],
+      "alternativeTitles": [
+        {
+          "titleId": "tt5443390",
+          "ordering": 1,
+          "title": "The Shawshank Redemption: Cast Interviews",
+          "region": "GB",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        }
+      ],
+      "adult": false
+    },
+    {
+      "id": "tt6681006",
+      "titleType": "tvEpisode",
+      "primaryTitle": "The Shawshank Redemption",
+      "originalTitle": "The Shawshank Redemption",
+      "startYear": "2015",
+      "endYear": "\\N",
+      "runtimeMinutes": 7,
+      "genres": "Comedy",
+      "writers": [
+        {
+          "id": "nm9103509",
+          "primaryName": "Dom Smith",
+          "birthYear": "\\N",
+          "deathYear": "\\N",
+          "primaryProfessions": [
+            "writer",
+            "editor",
+            "actor"
+          ],
+          "knownForTitles": [
+            "tt1868207",
+            "tt1818548",
+            "tt6673950",
+            "tt6673984"
+          ]
+        }
+      ],
+      "principals": [
+        {
+          "titleId": "tt6681006",
+          "ordering": 1,
+          "personInfo": {
+            "id": "nm9103509",
+            "primaryName": "Dom Smith",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "writer",
+              "editor",
+              "actor"
+            ],
+            "knownForTitles": [
+              "tt1868207",
+              "tt1818548",
+              "tt6673950",
+              "tt6673984"
+            ]
+          },
+          "category": "actor",
+          "job": "\\N",
+          "characters": "\\N"
+        }
+      ],
+      "alternativeTitles": [
+        {
+          "titleId": "tt6681006",
+          "ordering": 1,
+          "title": "The Shawshank Redemption",
+          "region": "GB",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        }
+      ],
+      "adult": false
+    },
+    {
+      "id": "tt6142216",
+      "titleType": "tvEpisode",
+      "primaryTitle": "The Shawshank Redemption/Timecop/Terminal Velocity/The New Age/Blue Sky",
+      "originalTitle": "The Shawshank Redemption/Timecop/Terminal Velocity/The New Age/Blue Sky",
+      "startYear": "1994",
+      "endYear": "\\N",
+      "genres": "Talk-Show",
+      "principals": [
+        {
+          "titleId": "tt6142216",
+          "ordering": 1,
+          "personInfo": {
+            "id": "nm0001170",
+            "primaryName": "Roger Ebert",
+            "birthYear": "1942",
+            "deathYear": "2013",
+            "primaryProfessions": [
+              "writer",
+              "actor",
+              "producer"
+            ],
+            "knownForTitles": [
+              "tt2382298",
+              "tt0090523",
+              "tt0075376",
+              "tt0065466"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself - Host\"]"
+        },
+        {
+          "titleId": "tt6142216",
+          "ordering": 2,
+          "personInfo": {
+            "id": "nm0803021",
+            "primaryName": "Gene Siskel",
+            "birthYear": "1946",
+            "deathYear": "1999",
+            "primaryProfessions": [
+              "actor",
+              "writer"
+            ],
+            "knownForTitles": [
+              "tt0108734",
+              "tt0090523",
+              "tt0103466",
+              "tt0075583"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself - Host\"]"
+        }
+      ],
+      "adult": false
+    },
+    {
+      "id": "tt0111161",
+      "titleType": "movie",
+      "primaryTitle": "The Shawshank Redemption",
+      "originalTitle": "The Shawshank Redemption",
+      "startYear": "1994",
+      "endYear": "\\N",
+      "runtimeMinutes": 142,
+      "genres": "Drama",
+      "averageRating": 9.3,
+      "numVotes": 2010007,
+      "directors": [
+        {
+          "id": "nm0001104",
+          "primaryName": "Frank Darabont",
+          "birthYear": "1959",
+          "deathYear": "\\N",
+          "primaryProfessions": [
+            "writer",
+            "producer",
+            "director"
+          ],
+          "knownForTitles": [
+            "tt0884328",
+            "tt0111161",
+            "tt0120689",
+            "tt1520211"
+          ]
+        }
+      ],
+      "writers": [
+        {
+          "id": "nm0000175",
+          "primaryName": "Stephen King",
+          "birthYear": "1947",
+          "deathYear": "\\N",
+          "primaryProfessions": [
+            "writer",
+            "producer",
+            "actor"
+          ],
+          "knownForTitles": [
+            "tt0083767",
+            "tt0120689",
+            "tt0091499",
+            "tt0111161"
+          ]
+        },
+        {
+          "id": "nm0001104",
+          "primaryName": "Frank Darabont",
+          "birthYear": "1959",
+          "deathYear": "\\N",
+          "primaryProfessions": [
+            "writer",
+            "producer",
+            "director"
+          ],
+          "knownForTitles": [
+            "tt0884328",
+            "tt0111161",
+            "tt0120689",
+            "tt1520211"
+          ]
+        }
+      ],
+      "principals": [
+        {
+          "titleId": "tt0111161",
+          "ordering": 10,
+          "personInfo": {
+            "id": "nm0290358",
+            "primaryName": "Richard Francis-Bruce",
+            "birthYear": "1948",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "editor",
+              "editorial_department",
+              "camera_department"
+            ],
+            "knownForTitles": [
+              "tt0117500",
+              "tt0097162",
+              "tt0118571",
+              "tt0114369"
+            ]
+          },
+          "category": "editor",
+          "job": "\\N",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 1,
+          "personInfo": {
+            "id": "nm0000209",
+            "primaryName": "Tim Robbins",
+            "birthYear": "1958",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "producer",
+              "director"
+            ],
+            "knownForTitles": [
+              "tt0327056",
+              "tt0111161",
+              "tt0105151",
+              "tt0094812"
+            ]
+          },
+          "category": "actor",
+          "job": "\\N",
+          "characters": "[\"Andy Dufresne\"]"
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 2,
+          "personInfo": {
+            "id": "nm0000151",
+            "primaryName": "Morgan Freeman",
+            "birthYear": "1937",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "producer",
+              "soundtrack"
+            ],
+            "knownForTitles": [
+              "tt0405159",
+              "tt0114369",
+              "tt0097239",
+              "tt1057500"
+            ]
+          },
+          "category": "actor",
+          "job": "\\N",
+          "characters": "[\"Ellis Boyd 'Red' Redding\"]"
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 3,
+          "personInfo": {
+            "id": "nm0348409",
+            "primaryName": "Bob Gunton",
+            "birthYear": "1945",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "soundtrack"
+            ],
+            "knownForTitles": [
+              "tt0111161",
+              "tt3322312",
+              "tt0285331",
+              "tt3305388"
+            ]
+          },
+          "category": "actor",
+          "job": "\\N",
+          "characters": "[\"Warden Norton\"]"
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 4,
+          "personInfo": {
+            "id": "nm0006669",
+            "primaryName": "William Sadler",
+            "birthYear": "1950",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "soundtrack",
+              "director"
+            ],
+            "knownForTitles": [
+              "tt0884328",
+              "tt1300854",
+              "tt0111161",
+              "tt0101452"
+            ]
+          },
+          "category": "actor",
+          "job": "\\N",
+          "characters": "[\"Heywood\"]"
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 5,
+          "personInfo": {
+            "id": "nm0001104",
+            "primaryName": "Frank Darabont",
+            "birthYear": "1959",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "writer",
+              "producer",
+              "director"
+            ],
+            "knownForTitles": [
+              "tt0884328",
+              "tt0111161",
+              "tt0120689",
+              "tt1520211"
+            ]
+          },
+          "category": "director",
+          "job": "\\N",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 6,
+          "personInfo": {
+            "id": "nm0000175",
+            "primaryName": "Stephen King",
+            "birthYear": "1947",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "writer",
+              "producer",
+              "actor"
+            ],
+            "knownForTitles": [
+              "tt0083767",
+              "tt0120689",
+              "tt0091499",
+              "tt0111161"
+            ]
+          },
+          "category": "writer",
+          "job": "short story \"Rita Hayworth and Shawshank Redemption\"",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 7,
+          "personInfo": {
+            "id": "nm0555550",
+            "primaryName": "Niki Marvin",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "producer",
+              "director",
+              "writer"
+            ],
+            "knownForTitles": [
+              "tt0093629",
+              "tt0111161",
+              "tt0118800",
+              "tt0099188"
+            ]
+          },
+          "category": "producer",
+          "job": "producer",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 8,
+          "personInfo": {
+            "id": "nm0002353",
+            "primaryName": "Thomas Newman",
+            "birthYear": "1955",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "music_department",
+              "composer",
+              "soundtrack"
+            ],
+            "knownForTitles": [
+              "tt0169547",
+              "tt0910970",
+              "tt1454029",
+              "tt1074638"
+            ]
+          },
+          "category": "composer",
+          "job": "\\N",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 9,
+          "personInfo": {
+            "id": "nm0005683",
+            "primaryName": "Roger Deakins",
+            "birthYear": "1949",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "cinematographer",
+              "camera_department",
+              "miscellaneous"
+            ],
+            "knownForTitles": [
+              "tt0477348",
+              "tt0116282",
+              "tt1074638",
+              "tt1856101"
+            ]
+          },
+          "category": "cinematographer",
+          "job": "director of photography",
+          "characters": "\\N"
+        }
+      ],
+      "alternativeTitles": [
+        {
+          "titleId": "tt0111161",
+          "ordering": 10,
+          "title": "The Shawshank Redemption",
+          "region": "\\N",
+          "language": "\\N",
+          "types": [
+            "original"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": true
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 11,
+          "title": "Sueño de fuga",
+          "region": "MX",
+          "language": "es",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 12,
+          "title": "Sueños de Libertad",
+          "region": "CL",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 13,
+          "title": "Sueños de libertad",
+          "region": "AR",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 14,
+          "title": "Rita Hayworth - Avain pakoon",
+          "region": "FI",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "premiere title"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 15,
+          "title": "A remény rabjai",
+          "region": "HU",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 16,
+          "title": "Um Sonho de Liberdade",
+          "region": "BR",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 17,
+          "title": "Bekstvo iz Šošenka",
+          "region": "RS",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 18,
+          "title": "Die Verurteilten",
+          "region": "DE",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 19,
+          "title": "Le ali della libertà",
+          "region": "IT",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 1,
+          "title": "Sueño de libertad",
+          "region": "UY",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 20,
+          "title": "Nyckeln till frihet",
+          "region": "SE",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 21,
+          "title": "Rita Hayworth - nyckel till flykten",
+          "region": "FI",
+          "language": "sv",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 22,
+          "title": "Rita Hayworth - avain pakoon",
+          "region": "FI",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 23,
+          "title": "????????? ??????: ???? ?????????",
+          "region": "GR",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 24,
+          "title": "Shôshanku no sora ni",
+          "region": "JP",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 25,
+          "title": "Kaznilnica odrešitve",
+          "region": "SI",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 26,
+          "title": "De ontsnapping",
+          "region": "NL",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "informal literal title"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 27,
+          "title": "???????????? ???????",
+          "region": "BG",
+          "language": "bg",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 28,
+          "title": "En verden udenfor",
+          "region": "DK",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 29,
+          "title": "The Shawshank Redemption",
+          "region": "CA",
+          "language": "en",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 2,
+          "title": "Frihetens regn",
+          "region": "NO",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 30,
+          "title": "Xiao shen ke de jiu shu",
+          "region": "CN",
+          "language": "cmn",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 31,
+          "title": "Homot Shel Tikva",
+          "region": "IL",
+          "language": "he",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 32,
+          "title": "Sueños de libertad",
+          "region": "MX",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 33,
+          "title": "Iskupljenje u Shawshanku",
+          "region": "HR",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 34,
+          "title": "Pabegimas iš Šoušenko",
+          "region": "LT",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 35,
+          "title": "Rita Hayworth -Avain pakoon",
+          "region": "FI",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "video box title"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 36,
+          "title": "Shawshanki lunastus",
+          "region": "EE",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 37,
+          "title": "Nhà tù Shawshank",
+          "region": "VN",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 38,
+          "title": "Skazani na Shawshank",
+          "region": "PL",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 39,
+          "title": "Esaretin Bedeli",
+          "region": "TR",
+          "language": "tr",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 3,
+          "title": "Die Verurteilten",
+          "region": "AT",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 40,
+          "title": "Sueño de fuga",
+          "region": "MX",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "DVD box title"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 41,
+          "title": "Închisoarea îngerilor",
+          "region": "RO",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 42,
+          "title": "Teleftaia exodos: 'Rita Hayworth'",
+          "region": "GR",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "transliterated ISO-LATIN-1 title"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 43,
+          "title": "Cadena perpètua",
+          "region": "ES",
+          "language": "ca",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 44,
+          "title": "Les évadés",
+          "region": "FR",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 45,
+          "title": "The Shawshank Redemption",
+          "region": "IS",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 46,
+          "title": "À l'ombre de Shawshank",
+          "region": "CA",
+          "language": "fr",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 47,
+          "title": "Vykúpenie z väznice Shawshank",
+          "region": "SK",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 48,
+          "title": "Cadena perpetua",
+          "region": "ES",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 49,
+          "title": "The Prisoner",
+          "region": "PH",
+          "language": "en",
+          "types": [
+            "alternative"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 4,
+          "title": "????? ? ????????",
+          "region": "UA",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 50,
+          "title": "Sueños de fuga",
+          "region": "PE",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 51,
+          "title": "The Shawshank Redemption",
+          "region": "US",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 52,
+          "title": "Vykoupení z veznice Shawshank",
+          "region": "CZ",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 53,
+          "title": "????? ?? ????????",
+          "region": "RU",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 54,
+          "title": "Shawshank Redemption - Avain pakoon",
+          "region": "FI",
+          "language": "\\N",
+          "types": [
+            "dvd"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 55,
+          "title": "Sueños de fuga",
+          "region": "CL",
+          "language": "\\N",
+          "types": [
+            "alternative"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 56,
+          "title": "Gaqceva shoushenkidan",
+          "region": "GE",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 5,
+          "title": "Shoushenkden Qacish",
+          "region": "AZ",
+          "language": "\\N",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 6,
+          "title": "Rita Hayworth and Shawshank Redemption",
+          "region": "US",
+          "language": "\\N",
+          "types": [
+            "working"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 7,
+          "title": "Rastegari dar Shawshank",
+          "region": "IR",
+          "language": "fa",
+          "types": [
+            "imdbDisplay"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 8,
+          "title": "Avain pakoon",
+          "region": "FI",
+          "language": "\\N",
+          "types": [
+            "dvd"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        },
+        {
+          "titleId": "tt0111161",
+          "ordering": 9,
+          "title": "Os Condenados de Shawshank",
+          "region": "PT",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        }
+      ],
+      "adult": false
+    },
+    {
+      "id": "tt5443386",
+      "titleType": "video",
+      "primaryTitle": "The Shawshank Redemption: Behind the Scenes",
+      "originalTitle": "The Shawshank Redemption: Behind the Scenes",
+      "startYear": "2004",
+      "endYear": "\\N",
+      "runtimeMinutes": 9,
+      "genres": "Short",
+      "averageRating": 9.4,
+      "numVotes": 24,
+      "principals": [
+        {
+          "titleId": "tt5443386",
+          "ordering": 1,
+          "personInfo": {
+            "id": "nm0001104",
+            "primaryName": "Frank Darabont",
+            "birthYear": "1959",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "writer",
+              "producer",
+              "director"
+            ],
+            "knownForTitles": [
+              "tt0884328",
+              "tt0111161",
+              "tt0120689",
+              "tt1520211"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself\"]"
+        },
+        {
+          "titleId": "tt5443386",
+          "ordering": 2,
+          "personInfo": {
+            "id": "nm0000151",
+            "primaryName": "Morgan Freeman",
+            "birthYear": "1937",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "producer",
+              "soundtrack"
+            ],
+            "knownForTitles": [
+              "tt0405159",
+              "tt0114369",
+              "tt0097239",
+              "tt1057500"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself\"]"
+        },
+        {
+          "titleId": "tt5443386",
+          "ordering": 3,
+          "personInfo": {
+            "id": "nm0000209",
+            "primaryName": "Tim Robbins",
+            "birthYear": "1958",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "producer",
+              "director"
+            ],
+            "knownForTitles": [
+              "tt0327056",
+              "tt0111161",
+              "tt0105151",
+              "tt0094812"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Himself\"]"
+        }
+      ],
+      "alternativeTitles": [
+        {
+          "titleId": "tt5443386",
+          "ordering": 1,
+          "title": "The Shawshank Redemption: Behind the Scenes",
+          "region": "GB",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        }
+      ],
+      "adult": false
+    },
+    {
+      "id": "tt7308124",
+      "titleType": "tvEpisode",
+      "primaryTitle": "The Shawshank Redemption",
+      "originalTitle": "The Shawshank Redemption",
+      "startYear": "2017",
+      "endYear": "\\N",
+      "genres": "Comedy,Talk-Show",
+      "averageRating": 8.1,
+      "numVotes": 7,
+      "adult": false
+    },
+    {
+      "id": "tt2477746",
+      "titleType": "short",
+      "primaryTitle": "The Shawshank Redemption (Scene)",
+      "originalTitle": "The Shawshank Redemption (Scene)",
+      "startYear": "2012",
+      "endYear": "\\N",
+      "runtimeMinutes": 6,
+      "genres": "Crime,Drama,Short",
+      "directors": [
+        {
+          "id": "nm5344364",
+          "primaryName": "Joshua Gallas",
+          "birthYear": "\\N",
+          "deathYear": "\\N",
+          "primaryProfessions": [
+            "sound_department",
+            "actor",
+            "animation_department"
+          ],
+          "knownForTitles": [
+            "tt7217388",
+            "tt2477746",
+            "tt8271014",
+            "tt7212768"
+          ]
+        }
+      ],
+      "principals": [
+        {
+          "titleId": "tt2477746",
+          "ordering": 1,
+          "personInfo": {
+            "id": "nm5274155",
+            "primaryName": "Lou Cobon",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor"
+            ],
+            "knownForTitles": [
+              "tt2391630",
+              "tt2477746"
+            ]
+          },
+          "category": "actor",
+          "job": "\\N",
+          "characters": "[\"Ellis Boyd 'Red' Redding\"]"
+        },
+        {
+          "titleId": "tt2477746",
+          "ordering": 2,
+          "personInfo": {
+            "id": "nm4746337",
+            "primaryName": "Charles Reynolds",
+            "birthYear": "1969",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "actor",
+              "miscellaneous"
+            ],
+            "knownForTitles": [
+              "tt4943562",
+              "tt3116674",
+              "tt4833364",
+              "tt2147924"
+            ]
+          },
+          "category": "actor",
+          "job": "\\N",
+          "characters": "[\"Andy Dufresne\"]"
+        },
+        {
+          "titleId": "tt2477746",
+          "ordering": 3,
+          "personInfo": {
+            "id": "nm5344364",
+            "primaryName": "Joshua Gallas",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "sound_department",
+              "actor",
+              "animation_department"
+            ],
+            "knownForTitles": [
+              "tt7217388",
+              "tt2477746",
+              "tt8271014",
+              "tt7212768"
+            ]
+          },
+          "category": "director",
+          "job": "\\N",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt2477746",
+          "ordering": 4,
+          "personInfo": {
+            "id": "nm5343876",
+            "primaryName": "Andrew Czap",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "editorial_department",
+              "cinematographer",
+              "camera_department"
+            ],
+            "knownForTitles": [
+              "tt7212768",
+              "tt2477746",
+              "tt8271014",
+              "tt8547676"
+            ]
+          },
+          "category": "cinematographer",
+          "job": "\\N",
+          "characters": "\\N"
+        }
+      ],
+      "alternativeTitles": [
+        {
+          "titleId": "tt2477746",
+          "ordering": 1,
+          "title": "The Shawshank Redemption (Scene)",
+          "region": "US",
+          "language": "\\N",
+          "types": [
+            "\\N"
+          ],
+          "attributes": [
+            "\\N"
+          ],
+          "originalTitle": false
+        }
+      ],
+      "adult": false
+    },
+    {
+      "id": "tt7088038",
+      "titleType": "tvEpisode",
+      "primaryTitle": "The Shawshank Redemption Prison",
+      "originalTitle": "The Shawshank Redemption Prison",
+      "startYear": "2017",
+      "endYear": "\\N",
+      "runtimeMinutes": 19,
+      "genres": "Comedy,Documentary,History",
+      "directors": [
+        {
+          "id": "nm2438503",
+          "primaryName": "Stu Maddux",
+          "birthYear": "\\N",
+          "deathYear": "\\N",
+          "primaryProfessions": [
+            "director",
+            "producer",
+            "writer"
+          ],
+          "knownForTitles": [
+            "tt8355926",
+            "tt4485952",
+            "tt6125590",
+            "tt1605721"
+          ]
+        }
+      ],
+      "writers": [
+        {
+          "id": "nm2438503",
+          "primaryName": "Stu Maddux",
+          "birthYear": "\\N",
+          "deathYear": "\\N",
+          "primaryProfessions": [
+            "director",
+            "producer",
+            "writer"
+          ],
+          "knownForTitles": [
+            "tt8355926",
+            "tt4485952",
+            "tt6125590",
+            "tt1605721"
+          ]
+        }
+      ],
+      "principals": [
+        {
+          "titleId": "tt7088038",
+          "ordering": 1,
+          "personInfo": {
+            "id": "nm9103124",
+            "primaryName": "Michelle Apgar",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              ""
+            ],
+            "knownForTitles": [
+              "tt6125590"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Herself\"]"
+        },
+        {
+          "titleId": "tt7088038",
+          "ordering": 2,
+          "personInfo": {
+            "id": "nm9103125",
+            "primaryName": "Susan Crawford",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              ""
+            ],
+            "knownForTitles": [
+              "tt6125590"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Herself\"]"
+        },
+        {
+          "titleId": "tt7088038",
+          "ordering": 3,
+          "personInfo": {
+            "id": "nm8490203",
+            "primaryName": "Katy Detrow",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "miscellaneous"
+            ],
+            "knownForTitles": [
+              "tt6125590"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Herself\"]"
+        },
+        {
+          "titleId": "tt7088038",
+          "ordering": 4,
+          "personInfo": {
+            "id": "nm5005497",
+            "primaryName": "Amber Dupree",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "miscellaneous",
+              "producer",
+              "assistant_director"
+            ],
+            "knownForTitles": [
+              "tt6125590",
+              "tt2345555"
+            ]
+          },
+          "category": "self",
+          "job": "\\N",
+          "characters": "[\"Herself\"]"
+        },
+        {
+          "titleId": "tt7088038",
+          "ordering": 5,
+          "personInfo": {
+            "id": "nm2438503",
+            "primaryName": "Stu Maddux",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "director",
+              "producer",
+              "writer"
+            ],
+            "knownForTitles": [
+              "tt8355926",
+              "tt4485952",
+              "tt6125590",
+              "tt1605721"
+            ]
+          },
+          "category": "director",
+          "job": "\\N",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt7088038",
+          "ordering": 6,
+          "personInfo": {
+            "id": "nm1425638",
+            "primaryName": "Jon Niccum",
+            "birthYear": "1965",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "producer",
+              "actor",
+              "writer"
+            ],
+            "knownForTitles": [
+              "tt1267431",
+              "tt2244682",
+              "tt1769375",
+              "tt2271685"
+            ]
+          },
+          "category": "producer",
+          "job": "producer",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt7088038",
+          "ordering": 7,
+          "personInfo": {
+            "id": "nm8620867",
+            "primaryName": "Malcolm Riggle",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "producer"
+            ],
+            "knownForTitles": [
+              "tt6125590"
+            ]
+          },
+          "category": "producer",
+          "job": "producer",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt7088038",
+          "ordering": 8,
+          "personInfo": {
+            "id": "nm7709668",
+            "primaryName": "Sean Grevencamp",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "cinematographer",
+              "camera_department"
+            ],
+            "knownForTitles": [
+              "tt2292168",
+              "tt6125590",
+              "tt6556992"
+            ]
+          },
+          "category": "cinematographer",
+          "job": "\\N",
+          "characters": "\\N"
+        },
+        {
+          "titleId": "tt7088038",
+          "ordering": 9,
+          "personInfo": {
+            "id": "nm8490208",
+            "primaryName": "Kai Stone",
+            "birthYear": "\\N",
+            "deathYear": "\\N",
+            "primaryProfessions": [
+              "miscellaneous",
+              "cinematographer"
+            ],
+            "knownForTitles": [
+              "tt6125590"
+            ]
+          },
+          "category": "cinematographer",
+          "job": "\\N",
+          "characters": "\\N"
+        }
+      ],
+      "adult": false
+    }
+  ]
+}

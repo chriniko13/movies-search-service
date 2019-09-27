@@ -1,0 +1,229 @@
+{
+  "executedForNames": [
+    "George Clooney",
+    "Brad Pitt"
+  ],
+  "names": [
+    {
+      "nconst": "nm0000123",
+      "primaryName": "George Clooney",
+      "birthYear": "1961",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,producer,director",
+      "knownForTitles": "tt0465538,tt1124035,tt1033575,tt1193138",
+      "primaryProfessionsSplited": [
+        "actor",
+        "producer",
+        "director"
+      ],
+      "knownForTitlesSplited": [
+        "tt0465538",
+        "tt1124035",
+        "tt1033575",
+        "tt1193138"
+      ]
+    },
+    {
+      "nconst": "nm0000093",
+      "primaryName": "Brad Pitt",
+      "birthYear": "1963",
+      "deathYear": "\\N",
+      "primaryProfessions": "actor,producer,soundtrack",
+      "knownForTitles": "tt0356910,tt0114746,tt1210166,tt0816711",
+      "primaryProfessionsSplited": [
+        "actor",
+        "producer",
+        "soundtrack"
+      ],
+      "knownForTitlesSplited": [
+        "tt0356910",
+        "tt0114746",
+        "tt1210166",
+        "tt0816711"
+      ]
+    }
+  ],
+  "noOfSharedTitles": 15,
+  "sharedTitles": [
+    {
+      "id": "tt0326300",
+      "titleType": "tvSpecial",
+      "primaryTitle": "Town Meeting with Diane Sawyer: Celebrities vs. the Press",
+      "originalTitle": "Town Meeting with Diane Sawyer: Celebrities vs. the Press",
+      "startYear": "1997",
+      "endYear": "\\N",
+      "runtimeMinutes": 60,
+      "genres": "Documentary",
+      "averageRating": 4.0,
+      "numVotes": 63,
+      "adult": false
+    },
+    {
+      "id": "tt4107944",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode dated 20 October 2014",
+      "originalTitle": "Episode dated 20 October 2014",
+      "startYear": "2014",
+      "endYear": "\\N",
+      "genres": "News",
+      "adult": false
+    },
+    {
+      "id": "tt0887883",
+      "titleType": "movie",
+      "primaryTitle": "Burn After Reading",
+      "originalTitle": "Burn After Reading",
+      "startYear": "2008",
+      "endYear": "\\N",
+      "runtimeMinutes": 96,
+      "genres": "Comedy,Crime,Drama",
+      "averageRating": 7.0,
+      "numVotes": 278538,
+      "adult": false
+    },
+    {
+      "id": "tt5347586",
+      "titleType": "video",
+      "primaryTitle": "Pros and Cons: Inside Ocean's Outfit",
+      "originalTitle": "Pros and Cons: Inside Ocean's Outfit",
+      "startYear": "2014",
+      "endYear": "\\N",
+      "runtimeMinutes": 13,
+      "genres": "Documentary",
+      "adult": false
+    },
+    {
+      "id": "tt0437779",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Brad Pitt",
+      "originalTitle": "Brad Pitt",
+      "startYear": "2004",
+      "endYear": "\\N",
+      "runtimeMinutes": 42,
+      "genres": "Biography,Documentary",
+      "averageRating": 8.8,
+      "numVotes": 102,
+      "adult": false
+    },
+    {
+      "id": "tt0499177",
+      "titleType": "video",
+      "primaryTitle": "'Ocean's Eleven': The Look of the Con",
+      "originalTitle": "'Ocean's Eleven': The Look of the Con",
+      "startYear": "2002",
+      "endYear": "\\N",
+      "runtimeMinutes": 10,
+      "genres": "Short",
+      "averageRating": 4.9,
+      "numVotes": 37,
+      "adult": false
+    },
+    {
+      "id": "tt1309165",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Burn After Reading",
+      "originalTitle": "Burn After Reading",
+      "startYear": "2008",
+      "endYear": "\\N",
+      "genres": "\\N",
+      "averageRating": 5.3,
+      "numVotes": 10,
+      "adult": false
+    },
+    {
+      "id": "tt5630786",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Inside the \"Ocean's 13\" Premiere Las Vegas",
+      "originalTitle": "Inside the \"Ocean's 13\" Premiere Las Vegas",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "genres": "Documentary",
+      "adult": false
+    },
+    {
+      "id": "tt0496806",
+      "titleType": "movie",
+      "primaryTitle": "Ocean's Thirteen",
+      "originalTitle": "Ocean's Thirteen",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "runtimeMinutes": 122,
+      "genres": "Crime,Thriller",
+      "averageRating": 6.9,
+      "numVotes": 289686,
+      "adult": false
+    },
+    {
+      "id": "tt0240772",
+      "titleType": "movie",
+      "primaryTitle": "Ocean's Eleven",
+      "originalTitle": "Ocean's Eleven",
+      "startYear": "2001",
+      "endYear": "\\N",
+      "runtimeMinutes": 116,
+      "genres": "Crime,Thriller",
+      "averageRating": 7.8,
+      "numVotes": 461163,
+      "adult": false
+    },
+    {
+      "id": "tt1040810",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Om filmen 'Ocean's Eleven'",
+      "originalTitle": "Om filmen 'Ocean's Eleven'",
+      "startYear": "2002",
+      "endYear": "\\N",
+      "genres": "News",
+      "adult": false
+    },
+    {
+      "id": "tt0537894",
+      "titleType": "tvEpisode",
+      "primaryTitle": "Episode #2.4",
+      "originalTitle": "Episode #2.4",
+      "startYear": "2004",
+      "endYear": "\\N",
+      "genres": "Reality-TV",
+      "averageRating": 4.9,
+      "numVotes": 10,
+      "adult": false
+    },
+    {
+      "id": "tt0349903",
+      "titleType": "movie",
+      "primaryTitle": "Ocean's Twelve",
+      "originalTitle": "Ocean's Twelve",
+      "startYear": "2004",
+      "endYear": "\\N",
+      "runtimeMinutes": 125,
+      "genres": "Crime,Thriller",
+      "averageRating": 6.5,
+      "numVotes": 322661,
+      "adult": false
+    },
+    {
+      "id": "tt2226599",
+      "titleType": "tvSpecial",
+      "primaryTitle": "The Orange British Academy Film Awards: Red Carpet",
+      "originalTitle": "The Orange British Academy Film Awards: Red Carpet",
+      "startYear": "2012",
+      "endYear": "\\N",
+      "genres": "\\N",
+      "averageRating": 5.2,
+      "numVotes": 14,
+      "adult": false
+    },
+    {
+      "id": "tt1305625",
+      "titleType": "tvSeries",
+      "primaryTitle": "Kinotipp",
+      "originalTitle": "Kinotipp",
+      "startYear": "2007",
+      "endYear": "\\N",
+      "genres": "\\N",
+      "averageRating": 6.3,
+      "numVotes": 10,
+      "adult": false
+    }
+  ]
+}
